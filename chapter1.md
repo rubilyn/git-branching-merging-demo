@@ -14,3 +14,5 @@ RTSC
 "If we reboot the microchip, we can get to the PNG capacitor through the optical SAS microchip!"
 "If we quantify the alarm, we can get to the SSL program through the virtual HDD circuit!"
 "If we compress the interface, we can get to the GB monitor through the neural PCI bus!"
+
+--Jon Snow
